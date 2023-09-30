@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\killi\OneDrive\Documents\school\programming essential\WE1 5.1\WE1 5.1\Source.cpp(7,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  WE1 5.1.vcxproj -> C:\Users\killi\OneDrive\Documents\school\programming essential\WE1 5.1\x64\Debug\WE1 5.1.exe

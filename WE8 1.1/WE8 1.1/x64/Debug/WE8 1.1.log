@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\killi\OneDrive\Documents\school\programming essential\WE8 1.1\WE8 1.1\Source.cpp(18,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  WE8 1.1.vcxproj -> C:\Users\killi\OneDrive\Documents\school\programming essential\WE8 1.1\x64\Debug\WE8 1.1.exe

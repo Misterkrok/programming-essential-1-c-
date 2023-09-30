@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\killi\OneDrive\Documents\school\programming essential\examen januari geef de cpp file in de examen\examen vraag 4 printlijst\examen vraag 4 printlijst\Source.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\killi\OneDrive\Documents\school\programming essential\examen januari geef de cpp file in de examen\examen vraag 4 printlijst\examen vraag 4 printlijst\Source.cpp(30,6): warning C4101: 'i': unreferenced local variable
+  examen vraag 4 printlijst.vcxproj -> C:\Users\killi\OneDrive\Documents\school\programming essential\examen januari geef de cpp file in de examen\examen vraag 4 printlijst\x64\Debug\examen vraag 4 printlijst.exe
